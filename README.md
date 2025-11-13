@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/hounkpe-sagbo-elvis-steeven-jeff-384424267" target="_blank">
+    <a href="https://www.linkedin.com/in/TON_LIEN_LINKEDIN" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:hounkpesagbojeff@gmail.com">
@@ -30,7 +30,7 @@ Je suis un **Développeur Web & Designer** passionné, actuellement étudiant en
 <table>
   <tr>
     <td align="center" width="180">
-      <strong>Frontend</strong>
+      <strong>🌐 Frontend</strong>
     </td>
     <td>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -41,7 +41,7 @@ Je suis un **Développeur Web & Designer** passionné, actuellement étudiant en
   </tr>
   <tr>
     <td align="center">
-      <strong>Backend</strong>
+      <strong>⚙️ Backend</strong>
     </td>
     <td>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -53,7 +53,7 @@ Je suis un **Développeur Web & Designer** passionné, actuellement étudiant en
   </tr>
   <tr>
     <td align="center">
-      <strong>Outils & Plateformes</strong>
+      <strong>🚀 Outils & Plateformes</strong>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -64,7 +64,7 @@ Je suis un **Développeur Web & Designer** passionné, actuellement étudiant en
   </tr>
   <tr>
     <td align="center">
-      <strong>Design</strong>
+      <strong>🎨 Design</strong>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
