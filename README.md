@@ -80,8 +80,8 @@ Je suis un **Développeur Web & Designer** passionné, actuellement étudiant en
 
 <!-- N'OUBLIE PAS DE CHANGER "TON_NOM_UTILISATEUR" CI-DESSOUS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_NOM_UTILISATEUR&show_icons=true&theme=radical&rank_icon=github" alt="Statistiques GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_NOM_UTILISATEUR&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Stelvix&show_icons=true&theme=radical&rank_icon=github" alt="Statistiques GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stelvix&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
 </p>
 
 ---
