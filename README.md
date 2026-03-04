@@ -5,8 +5,12 @@
 </p>
 
 <p align="center">
-    <a href="www.linkedin.com/in/hounkpe-sagbo-elvis-steeven-jeff-384424267" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Me+Contacter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OPEN_TO_WORK-YES-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/hounkpe-sagbo-elvis-steeven-jeff-384424267" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Me_Contacter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:hounkpesagbojeff@gmail.com">
         <img src="https://img.shields.io/badge/Email-Disponible_pour_alternance-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -15,16 +19,18 @@
 
 ---
 
-# RECHERCHE ALTERNANCE DÉVELOPPEUR – SEPTEMBRE 2026
+# 🚀 RECHERCHE ALTERNANCE DÉVELOPPEUR – SEPTEMBRE 2026
 
 <p align="center">
   <img src="https://img.shields.io/badge/Alternance-Disponible_Septembre_2026-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Rythme-2_semaines_entreprise_|_1_semaine_ecole-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Localisation-Nantes_&_orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Localisation-Nantes_&_Remote-orange?style=for-the-badge"/>
 </p>
 
-🎯 Étudiant en 2ᵉ année à l’EPSI Nantes, je recherche une **alternance en développement fullstack / backend / DevOps** pour septembre 2026.  
-Je souhaite évoluer sur des projets concrets avec **Symfony, Vue.js, API, C#, .net bases de données et déploiement cloud**.
+🎯 Étudiant en 2ᵉ année à l’EPSI Nantes, je recherche une **alternance en développement Fullstack / Backend / DevOps** pour septembre 2026.  
+
+Je souhaite évoluer sur des projets concrets avec :  
+**Symfony, Vue.js, API REST, C#, .NET, bases de données et déploiement cloud.**
 
 Si vous recherchez un profil sérieux, curieux et autonome → **je suis prêt.**
 
@@ -34,8 +40,8 @@ Si vous recherchez un profil sérieux, curieux et autonome → **je suis prêt.*
 
 Je suis passionné par la création d’applications web modernes, performantes et bien structurées.
 
-💡 J’aime comprendre comment tout fonctionne :  
-du **frontend**, au **backend**, jusqu’au **déploiement et à l’infrastructure**.
+💡 J’aime comprendre toute la chaîne technique :  
+Frontend → Backend → Base de données → Déploiement → Infrastructure.
 
 🛠️ En ce moment, je travaille sur :
 - Architecture API avec **Symfony**
@@ -60,6 +66,7 @@ du **frontend**, au **backend**, jusqu’au **déploiement et à l’infrastruct
 - JWT
 - C#
 - C++
+- .NET
 
 ### 🗄️ Base de données
 - MySQL
@@ -99,15 +106,11 @@ Application de gestion de projets avec :
 - Dashboard administrateur
 - Base de données structurée
 
----
-
 ### 🔹 Gestion de Zoo (Symfony)
 Projet académique avec :
 - Relations Doctrine
 - Architecture MVC
 - Gestion d’entités complexes
-
----
 
 ### 🔹 Système de Feedback (PHP/MySQL)
 Application permettant la collecte et l’analyse d’avis étudiants.
