@@ -15,7 +15,7 @@
 
 ---
 
-# 🚀 RECHERCHE ALTERNANCE DÉVELOPPEUR – SEPTEMBRE 2026
+# RECHERCHE ALTERNANCE DÉVELOPPEUR – SEPTEMBRE 2026
 
 <p align="center">
   <img src="https://img.shields.io/badge/Alternance-Disponible_Septembre_2026-success?style=for-the-badge"/>
@@ -24,7 +24,7 @@
 </p>
 
 🎯 Étudiant en 2ᵉ année à l’EPSI Nantes, je recherche une **alternance en développement fullstack / backend / DevOps** pour septembre 2026.  
-Je souhaite évoluer sur des projets concrets avec **Symfony, Vue.js, API, bases de données et déploiement cloud**.
+Je souhaite évoluer sur des projets concrets avec **Symfony, Vue.js, API, C#, .net bases de données et déploiement cloud**.
 
 Si vous recherchez un profil sérieux, curieux et autonome → **je suis prêt.**
 
