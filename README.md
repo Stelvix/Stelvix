@@ -65,7 +65,7 @@ Frontend → Backend → Base de données → Déploiement → Infrastructure.
 - API REST
 - JWT
 - C#
-- C++
+- Python
 - .NET
 
 ### 🗄️ Base de données
