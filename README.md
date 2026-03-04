@@ -1,98 +1,135 @@
 <h1 align="center">Salut, je suis Elvis Steeven Jeff HOUNKPE-SAGBO 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=D%C3%A9veloppeur+Web;Designer+UI%2FUX;Freelance+passionn%C3%A9" alt="Animation de frappe de texte" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Fullstack;Futur+DevOps;Passionn%C3%A9+par+la+tech+et+le+design" />
 </p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/TON_LIEN_LINKEDIN" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/LinkedIn-Me+Contacter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:hounkpesagbojeff@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        <img src="https://img.shields.io/badge/Email-Disponible_pour_alternance-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </p>
 
 ---
 
-### À propos de moi
+# 🚀 RECHERCHE ALTERNANCE DÉVELOPPEUR – SEPTEMBRE 2026
 
-Je suis un **Développeur Web & Designer** passionné, actuellement étudiant en Bachelor Sciences Informatiques à l'EPSI Nantes. Fort d'expériences en freelance et en stage, j'aime créer des interfaces intuitives et des systèmes robustes.
-
-- 👨‍💻 Actuellement en train de perfectionner mes compétences sur **Symfony** et **Vue.js**.
-- 🎨 J'ai un œil pour le design et une bonne maîtrise de la suite Adobe et Figma.
-- 🚀 **À la recherche d'un stage de 2 mois en développement web pour Janvier/Février 2026.**
-
----
-
-### 🛠️ Compétences & Outils
-
-<table>
-  <tr>
-    <td align="center" width="180">
-      <strong>🌐 Frontend</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>⚙️ Backend</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-      <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>🚀 Outils & Plateformes</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>🎨 Design</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
-      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
-      <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Mes Statistiques GitHub
-
-<!-- N'OUBLIE PAS DE CHANGER "TON_NOM_UTILISATEUR" CI-DESSOUS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stelvix&show_icons=true&theme=radical&rank_icon=github" alt="Statistiques GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stelvix&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
+  <img src="https://img.shields.io/badge/Alternance-Disponible_Septembre_2026-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Rythme-3_semaines_entreprise_|_1_semaine_ecole-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Localisation-Nantes_&_Remote-orange?style=for-the-badge"/>
+</p>
+
+🎯 Étudiant en 2ᵉ année à l’EPSI Nantes, je recherche une **alternance en développement fullstack / backend / DevOps** pour septembre 2026.  
+Je souhaite évoluer sur des projets concrets avec **Symfony, Vue.js, API, bases de données et déploiement cloud**.
+
+Si vous recherchez un profil sérieux, curieux et autonome → **je suis prêt.**
+
+---
+
+## 👨‍💻 À propos de moi
+
+Je suis passionné par la création d’applications web modernes, performantes et bien structurées.
+
+💡 J’aime comprendre comment tout fonctionne :  
+du **frontend**, au **backend**, jusqu’au **déploiement et à l’infrastructure**.
+
+🛠️ En ce moment, je travaille sur :
+- Architecture API avec **Symfony**
+- Authentification sécurisée avec **JWT**
+- Projets fullstack avec **Vue.js**
+- Déploiement & environnement Linux
+
+---
+
+## 🛠️ Stack Technique
+
+### 🌐 Frontend
+- HTML5
+- CSS3 / Responsive Design
+- JavaScript
+- Vue.js
+
+### ⚙️ Backend
+- PHP
+- Symfony
+- API REST
+- JWT
+- C#
+- C++
+
+### 🗄️ Base de données
+- MySQL
+- SQL Server
+- Conception de base de données
+
+### 🐳 Outils & Environnement
+- Git / GitHub
+- Linux
+- Postman
+- Docker (en apprentissage)
+- Firebase
+
+### 🎨 Design
+- Figma
+- Adobe XD
+- Photoshop
+- Illustrator
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Stelvix&show_icons=true&theme=radical&rank_icon=github"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stelvix&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-### 📂 Mes Projets
+## 📂 Projets Sélectionnés
 
-Quelques projets dont je suis fier :
+### 🔹 Project Hub (Fullstack)
+Application de gestion de projets avec :
+- Authentification JWT
+- Gestion CRUD complète
+- Dashboard administrateur
+- Base de données structurée
 
-- **Gestion de Zoo (Symfony) :** Projet scolaire pour gérer les animaux, les habitats et les employés d'un zoo.
-- **Système de feedback (PHP/MySQL) :** Une application web pour recueillir l'avis des étudiants de mon école.
-- **Intégration responsive (Stage) :** Intégration de multiples pages et création de composants réutilisables pour la startup NoBullshit Collective.
-- **Portfolio (HTML/CSS/JS) :** Mon portfolio personnel, qui présente l'ensemble de mes travaux.
+---
 
-➡️ **[Découvrez tous mes projets sur mon portfolio](https://steeven-portfolio-taupe.vercel.app/#accueil)**
+### 🔹 Gestion de Zoo (Symfony)
+Projet académique avec :
+- Relations Doctrine
+- Architecture MVC
+- Gestion d’entités complexes
+
+---
+
+### 🔹 Système de Feedback (PHP/MySQL)
+Application permettant la collecte et l’analyse d’avis étudiants.
+
+---
+
+## 🌍 Portfolio
+
+➡️ **https://steeven-portfolio-taupe.vercel.app/#accueil**
+
+---
+
+## 💬 Soft Skills
+
+- Autonome
+- Curieux
+- Esprit d’analyse
+- Capacité d’adaptation
+- Sens du design
+
+---
+
+<p align="center">
+  <strong>Ouvert aux opportunités – Discutons ensemble 🚀</strong>
+</p>
