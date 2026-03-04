@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Alternance-Disponible_Septembre_2026-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Rythme-3_semaines_entreprise_|_1_semaine_ecole-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Rythme-2_semaines_entreprise_|_1_semaine_ecole-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Localisation-Nantes_&_Remote-orange?style=for-the-badge"/>
 </p>
 
