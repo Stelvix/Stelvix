@@ -112,6 +112,14 @@ Projet académique avec :
 - Architecture MVC
 - Gestion d’entités complexes
 
+### 🔹 Steeven Recommends
+Site de recommandations de produits avec :
+- Présentation de produits sélectionnés
+- Description simple et prix indicatif
+- Accès direct au produit via un lien Amazon
+- Navigation claire pour découvrir facilement les produits
+- Pages dashboard dynamique et sécurisé avec l'ajout de produits
+
 ### 🔹 Système de Feedback (PHP/MySQL)
 Application permettant la collecte et l’analyse d’avis étudiants.
 
