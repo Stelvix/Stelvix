@@ -103,11 +103,18 @@ Frontend → Backend → Base de données → Déploiement → Infrastructure.
 <span style="display:flex; justify-content:space-around; flex-wrap:wrap; align-items:center; width:100%; margin-top:15px;">
 
 <!-- Design / UI -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" title="Figma" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/xd-line.svg" height="60" title="Adobe XD" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="60" title="Photoshop" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="60" title="Illustrator" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-</span>
+<!-- Design / UI -->
+<p align="center">
+<div style="display:flex; justify-content:space-evenly; align-items:center; flex-wrap:nowrap; overflow-x:auto; width:100%; padding:10px 0;">
+
+<!-- Design / UI -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" title="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/xd-original.svg" height="60" title="Adobe XD"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="60" title="Photoshop"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" height="60" title="Illustrator"/>
+
+</div>
+</p>
 </p>
 
 ---
