@@ -53,33 +53,57 @@ Frontend → Backend → Base de données → Déploiement → Infrastructure.
 
 ## ⚡ Stack Technique
 
-## ⚡ Tech Stack
-
-<p align="center">
-
 <!-- Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48"/><br>
+<p align="center">
+<span style="display:flex; justify-content:space-around; flex-wrap:wrap; align-items:center; margin-bottom:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" style="transition: transform 0.3s;"/>
+</span>
+</p>
 
 <!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/><br>
+<p align="center">
+<span style="display:flex; justify-content:space-around; flex-wrap:wrap; align-items:center; margin-bottom:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" style="transition: transform 0.3s;"/>
+</span>
+</p>
 
 <!-- Bases de données -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/><br>
+<p align="center">
+<span style="display:flex; justify-content:space-around; flex-wrap:wrap; align-items:center; margin-bottom:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" style="transition: transform 0.3s;"/>
+</span>
+</p>
 
 <!-- Outils & Environnement -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="48"/>
+<p align="center">
+<span style="display:flex; justify-content:space-around; flex-wrap:wrap; align-items:center; margin-bottom:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" style="transition: transform 0.3s;"/>
+</span>
+</p>
 
+<!-- Design / UI -->
+<p align="center">
+<span style="display:flex; justify-content:space-around; flex-wrap:wrap; align-items:center; margin-bottom:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/xd-line.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="60" style="transition: transform 0.3s;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="60" style="transition: transform 0.3s;"/>
+</span>
 </p>
 
 ## 📊 Statistiques GitHub
