@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hounkpe-sagbo-elvis-steeven-jeff-384424267" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Me_Contacter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:hounkpesagbojeff@gmail.com">
-<img src="https://img.shields.io/badge/Email-Disponible_pour_alternance-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/hounkpe-sagbo-elvis-steeven-jeff-384424267" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Me_Contacter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hounkpesagbojeff@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Disponible_pour_alternance-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -22,9 +22,9 @@
 # 🚀 RECHERCHE ALTERNANCE – SEPTEMBRE 2026
 
 <p align="center">
-<img src="https://img.shields.io/badge/Alternance-Disponible_Septembre_2026-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Rythme-2_semaines_entreprise_|_1_semaine_ecole-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Localisation-Nantes_&_Remote-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Alternance-Disponible_Septembre_2026-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Rythme-2_semaines_entreprise_|_1_semaine_ecole-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Localisation-Nantes_&_Remote-orange?style=for-the-badge"/>
 </p>
 
 🎯 Étudiant en 2ᵉ année à l’EPSI Nantes, je recherche une **alternance Fullstack / Backend / DevOps** pour septembre 2026.  
@@ -53,59 +53,34 @@ Frontend → Backend → Base de données → Déploiement → Infrastructure.
 ## ⚡ Tech Stack
 
 <p align="center">
-<span style="display:flex; justify-content:space-around; flex-wrap:wrap; align-items:center; width:100%;">
+<div style="display:flex; justify-content:space-evenly; align-items:center; flex-wrap:nowrap; overflow-x:auto; width:100%; padding:15px 0;">
 
 <!-- Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" title="HTML5" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" title="CSS3" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" title="JavaScript" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" title="Vue.js" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" title="React" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-</span>
-</p>
-
-<p align="center">
-<span style="display:flex; justify-content:space-around; flex-wrap:wrap; align-items:center; width:100%; margin-top:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" title="Vue.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" title="React"/>
 
 <!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" title="PHP" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="60" title="Symfony" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" title=".NET" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" title="Python" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-</span>
-</p>
-
-<p align="center">
-<span style="display:flex; justify-content:space-around; flex-wrap:wrap; align-items:center; width:100%; margin-top:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" title="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="60" title="Symfony"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" title=".NET"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" title="Python"/>
 
 <!-- Bases de données -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" title="MySQL" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" title="Firebase" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" title="SQL Server" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-</span>
-</p>
-
-<p align="center">
-<span style="display:flex; justify-content:space-around; flex-wrap:wrap; align-items:center; width:100%; margin-top:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" title="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" title="SQL Server"/>
 
 <!-- Outils & Environnement -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" title="Git" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" title="Docker" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" title="Linux" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" title="Postman" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" title="VS Code" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" title="Android Studio" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" title="Flutter" style="transition: all 0.3s; filter: drop-shadow(0 0 0px #36BCF7);"/>
-</span>
-</p>
-
-<p align="center">
-<span style="display:flex; justify-content:space-around; flex-wrap:wrap; align-items:center; width:100%; margin-top:15px;">
-
-<!-- Design / UI -->
-<!-- Design / UI -->
-<p align="center">
-<div style="display:flex; justify-content:space-evenly; align-items:center; flex-wrap:nowrap; overflow-x:auto; width:100%; padding:10px 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" title="Linux"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" title="Postman"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" title="Android Studio"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" title="Flutter"/>
 
 <!-- Design / UI -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" title="Figma"/>
@@ -114,7 +89,6 @@ Frontend → Backend → Base de données → Déploiement → Infrastructure.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" height="60" title="Illustrator"/>
 
 </div>
-</p>
 </p>
 
 ---
