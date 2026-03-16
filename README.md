@@ -53,9 +53,12 @@ Frontend → Backend → Base de données → Déploiement → Infrastructure.
 
 ## ⚡ Stack Technique
 
-<!-- Frontend -->
+## ⚡ Tech Stack
+
 <p align="center">
-<span style="display:flex; justify-content:space-around; flex-wrap:wrap; align-items:center; margin-bottom:15px;">
+<span style="display:flex; justify-content:space-between; flex-wrap:wrap; align-items:center; width:100%; margin-bottom:15px;">
+
+<!-- Frontend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" style="transition: transform 0.3s;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" style="transition: transform 0.3s;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" style="transition: transform 0.3s;"/>
@@ -64,9 +67,10 @@ Frontend → Backend → Base de données → Déploiement → Infrastructure.
 </span>
 </p>
 
-<!-- Backend -->
 <p align="center">
-<span style="display:flex; justify-content:space-around; flex-wrap:wrap; align-items:center; margin-bottom:15px;">
+<span style="display:flex; justify-content:space-between; flex-wrap:wrap; align-items:center; width:100%; margin-bottom:15px;">
+
+<!-- Backend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" style="transition: transform 0.3s;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="60" style="transition: transform 0.3s;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" style="transition: transform 0.3s;"/>
@@ -74,18 +78,20 @@ Frontend → Backend → Base de données → Déploiement → Infrastructure.
 </span>
 </p>
 
-<!-- Bases de données -->
 <p align="center">
-<span style="display:flex; justify-content:space-around; flex-wrap:wrap; align-items:center; margin-bottom:15px;">
+<span style="display:flex; justify-content:space-between; flex-wrap:wrap; align-items:center; width:100%; margin-bottom:15px;">
+
+<!-- Bases de données -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" style="transition: transform 0.3s;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" style="transition: transform 0.3s;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" style="transition: transform 0.3s;"/>
 </span>
 </p>
 
-<!-- Outils & Environnement -->
 <p align="center">
-<span style="display:flex; justify-content:space-around; flex-wrap:wrap; align-items:center; margin-bottom:15px;">
+<span style="display:flex; justify-content:space-between; flex-wrap:wrap; align-items:center; width:100%; margin-bottom:15px;">
+
+<!-- Outils & Environnement -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" style="transition: transform 0.3s;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" style="transition: transform 0.3s;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" style="transition: transform 0.3s;"/>
@@ -96,9 +102,10 @@ Frontend → Backend → Base de données → Déploiement → Infrastructure.
 </span>
 </p>
 
-<!-- Design / UI -->
 <p align="center">
-<span style="display:flex; justify-content:space-around; flex-wrap:wrap; align-items:center; margin-bottom:15px;">
+<span style="display:flex; justify-content:space-between; flex-wrap:wrap; align-items:center; width:100%; margin-bottom:15px;">
+
+<!-- Design / UI -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" style="transition: transform 0.3s;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/xd-line.svg" height="60" style="transition: transform 0.3s;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="60" style="transition: transform 0.3s;"/>
