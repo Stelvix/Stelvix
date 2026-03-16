@@ -51,40 +51,42 @@ Frontend → Backend → Base de données → Déploiement → Infrastructure.
 
 ---
 
-## 🛠️ Stack Technique
+## ⚡ Stack Technique
 
 ### 🌐 Frontend
-- HTML5
-- CSS3 / Responsive Design
-- JavaScript
-- Vue.js
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45"/>
+</p>
 
 ### ⚙️ Backend
-- PHP
-- Symfony
-- API REST
-- JWT
-- C#
-- Python
-- .NET
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+</p>
 
 ### 🗄️ Base de données
-- MySQL
-- SQL Server
-- Conception de base de données
 
-### 🐳 Outils & Environnement
-- Git / GitHub
-- Linux
-- Postman
-- Docker (en apprentissage)
-- Firebase
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45"/>
+</p>
 
-### 🎨 Design
-- Figma
-- Adobe XD
-- Photoshop
-- Illustrator
+### 🛠️ Outils & Environnement
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+</p>
 
 ---
 
