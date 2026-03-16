@@ -1,7 +1,7 @@
 <h1 align="center">Salut, je suis Elvis Steeven Jeff HOUNKPE-SAGBO 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Fullstack;Futur+DevOps;Passionn%C3%A9+par+la+tech+et+le+design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Fullstack;Passionn%C3%A9+par+la+tech+et+le+design;Futur+DevOps" />
 </p>
 
 <p align="center">
