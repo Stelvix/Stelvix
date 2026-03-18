@@ -19,7 +19,7 @@
 
 ---
 
-# 🚀 RECHERCHE ALTERNANCE – SEPTEMBRE 2026
+# RECHERCHE ALTERNANCE – SEPTEMBRE 2026
 
 <p align="center">
   <img src="https://img.shields.io/badge/Alternance-Disponible_Septembre_2026-success?style=for-the-badge"/>
