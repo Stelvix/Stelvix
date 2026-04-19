@@ -128,6 +128,18 @@ Site de recommandations de produits avec :
 ### 🔹 Système de Feedback (PHP/MySQL)
 Application permettant la collecte et l’analyse d’avis étudiants.
 
+### 🔹 Shopping List API (Spring Boot / REST)
+
+API RESTful de gestion de liste de courses avec :
+
+Backend développé en Java (Spring Boot)
+Architecture REST avec endpoints structurés (GET, POST, PUT, DELETE)
+Gestion complète des entités produits (CRUD)
+Modélisation des données avec gestion des catégories
+Utilisation de Maven pour la gestion des dépendances
+Documentation de l’API avec Swagger / OpenAPI
+Gestion des routes dynamiques (paramètres ID)
+Endpoint de healthcheck (/hello)
 ---
 
 ## 🌍 Portfolio
