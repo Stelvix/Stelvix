@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hounkpe-sagbo-elvis-steeven-jeff-384424267" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Me_Contacter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/hounkpe-sagbo-elvis-steeven-jeff-384424267">
+    <img src="https://img.shields.io/badge/LinkedIn-Me_contacter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hounkpesagbojeff@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me_Contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -17,17 +17,18 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fullstack-Developer-2ea44f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-_-Spring_Boot-orange?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-_-TypeScript-blue?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-Spring_Boot-orange?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-TypeScript-blue?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/DevOps-App%C3%A9tence-purple?style=for-the-badge"/>
 </p>
 
-🎯 Je suis étudiant en **3ᵉ année à l’EPSI Nantes** et je me forme pour devenir **développeur Fullstack avec une appétence DevOps**.
+🎯 Je suis étudiant en **3ᵉ année à l'EPSI Nantes** et je me forme pour devenir **développeur Fullstack avec une appétence DevOps**.
 
-J’aime construire des applications de bout en bout :
-**Frontend → Backend → API → Base de données → CI/CD → Déploiement → Infrastructure.**
+J'aime construire des applications de bout en bout :
 
-Je m'intéresse particulièrement à l'écosystème **Java / Spring Boot**, au développement frontend avec **React / TypeScript**, ainsi qu'à **C# / .NET** et aux pratiques DevOps.
+**Frontend → Backend → API → Base de données → CI/CD → Déploiement → Infrastructure**
+
+Je m'intéresse particulièrement à **Java / Spring Boot**, **React / TypeScript**, **C# / .NET** et aux pratiques **DevOps**.
 
 ---
 
@@ -35,69 +36,73 @@ Je m'intéresse particulièrement à l'écosystème **Java / Spring Boot**, au d
 
 Je suis passionné par le développement logiciel et par la compréhension de ce qui se passe derrière une application.
 
-Je ne veux pas seulement apprendre à écrire du code : j'aime comprendre **comment les différentes parties d'un projet communiquent entre elles**, comment les sécuriser, les tester, les déployer et les maintenir.
+J'aime comprendre comment les différentes parties d'un projet communiquent entre elles, comment les sécuriser, les tester, les déployer et les maintenir.
 
 ### 🚀 Ce sur quoi je travaille actuellement
 
 * ☕ **Java / Spring Boot** — APIs REST, architecture backend, JWT
 * ⚛️ **React / TypeScript** — applications web modernes
 * 🔷 **C# / .NET** — APIs et développement backend
-* 🐳 **Docker** — conteneurisation et environnements de développement
-* 🐧 **Linux** — administration et environnement serveur
+* 🐳 **Docker** — conteneurisation
+* 🐧 **Linux** — environnement serveur
 * 🔄 **CI/CD** — automatisation des builds et déploiements
-* ☁️ **Azure / AWS** — découverte et déploiement cloud
-* ☸️ **Kubernetes** — découverte de l'orchestration
-* 🧪 **Tests, Git et bonnes pratiques de développement**
+* ☁️ **Azure / AWS** — cloud et déploiement
+* ☸️ **Kubernetes** — orchestration
+* 🧪 **Tests, Git et bonnes pratiques**
 
 ---
 
 ## ⚡ Tech Stack
 
+### Frontend
+
 <p align="center">
-<div style="display:flex; justify-content:space-evenly; align-items:center; flex-wrap:nowrap; overflow-x:auto; width:100%; padding:15px 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="55" title="HTML5" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="55" title="CSS3" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="55" title="JavaScript" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="55" title="TypeScript" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="55" title="React" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="55" title="Vue.js" alt="Vue.js"/>
+</p>
 
-<!-- Frontend -->
+### Backend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" title="Vue.js"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="55" title="Java" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="55" title="Spring Boot" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="55" title="C#" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="55" title=".NET" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="55" title="PHP" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" height="55" title="Symfony" alt="Symfony"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="55" title="Python" alt="Python"/>
+</p>
 
-<!-- Backend -->
+### Bases de données
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" title="Spring Boot"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" title="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" title=".NET"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" title="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="60" title="Symfony"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" title="Python"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="55" title="PostgreSQL" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="55" title="MySQL" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="55" title="MariaDB" alt="MariaDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="55" title="SQL Server" alt="SQL Server"/>
+</p>
 
-<!-- Bases de données -->
+### DevOps & Infrastructure
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="60" title="MariaDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="60" title="SQL Server"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="55" title="Git" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="55" title="GitHub" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="55" title="Docker" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="55" title="Linux" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="55" title="Kubernetes" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="55" title="Azure" alt="Azure"/>
+</p>
 
-<!-- DevOps / Infrastructure -->
+### Outils
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" title="Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="60" title="Kubernetes"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" title="Azure"/>
-
-<!-- Outils -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" title="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="60" title="Postman"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="60" title="Swagger"/>
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="55" title="VS Code" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="55" title="Postman" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="55" title="Swagger" alt="Swagger"/>
 </p>
 
 ---
@@ -108,9 +113,9 @@ Je ne veux pas seulement apprendre à écrire du code : j'aime comprendre **comm
 
 Projet développé avec mon frère autour d'une **marketplace destinée aux pays d'Afrique de l'Ouest**.
 
-Objectif : construire progressivement une plateforme permettant aux utilisateurs d'acheter et vendre des produits avec une architecture adaptée au contexte local.
+L'objectif est de construire progressivement une plateforme permettant aux utilisateurs d'acheter et vendre des produits avec une architecture adaptée au contexte local.
 
-**Technologies explorées :**
+**Technologies :**
 
 * Vue / TypeScript
 * C# / .NET
@@ -162,11 +167,11 @@ Application fullstack de gestion de listes de courses.
 * React Hook Form
 * Axios
 
-**Autres :**
+**DevOps / déploiement :**
 
-* PWA
 * Docker
 * GitHub Actions
+* PWA
 * Déploiement cloud
 
 ---
@@ -174,8 +179,6 @@ Application fullstack de gestion de listes de courses.
 ### 🏗️ Project Hub
 
 Application permettant de gérer et organiser des projets de développement.
-
-Fonctionnalités :
 
 * Authentification JWT
 * CRUD
@@ -187,7 +190,7 @@ Fonctionnalités :
 
 ---
 
-### 🎭 Projets professionnels
+### 🎭 Expériences professionnelles
 
 Durant mes expériences professionnelles, j'ai notamment travaillé sur :
 
@@ -205,11 +208,21 @@ Ces expériences m'ont permis de découvrir différentes façons de construire e
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stelvix&show_icons=true&theme=radical&rank_icon=github"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stelvix&layout=compact&theme=radical"/>
+  <a href="https://github.com/Stelvix">
+    <img src="https://github-readme-stats.vercel.app/api?username=Stelvix&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Stelvix">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stelvix&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Stelvix">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stelvix&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ---
@@ -234,7 +247,7 @@ Mon objectif est de devenir un **développeur Fullstack solide**, capable de com
 
 ## 🌍 Portfolio
 
-➡️ **https://steeven-portfolio-taupe.vercel.app/#accueil**
+➡️ https://steeven-portfolio-taupe.vercel.app
 
 ---
 
