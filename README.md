@@ -112,8 +112,8 @@ Objectif : construire progressivement une plateforme permettant aux utilisateurs
 
 **Technologies explorées :**
 
-* React / TypeScript
-* Java / Spring Boot
+* Vue / TypeScript
+* C# / .NET
 * API REST
 * Authentification
 * Base de données
